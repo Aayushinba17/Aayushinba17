@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Pre--Final%20Year%20CSE%20%C2%B7%20IIIT%20Allahabad-6366f1?style=flat-square&logo=graduation-cap&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/-Full--Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20AI%20Builder-C084FC?style=flat-square&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Full--Stack%20Developer%20%7C%20Competitive%20Programmer-C084FC?style=flat-square&logo=codeforces&logoColor=white" />
 </p>
 
 ---
