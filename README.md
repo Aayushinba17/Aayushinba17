@@ -129,68 +129,7 @@
 
 ---
 
-### 🚀 Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### 📊 [InsightLedger+](https://github.com/Aayushinba17/InsightLedger)
-**AI-Powered Stock Intelligence · NIFTY 100**
-
-9-stage Python pipeline scraping NSE annual reports → insight extraction via **Gemini 2.5 Flash** → 30+ financial metrics across 100 companies. React/Vite dashboard with 6 **Recharts** views, Z-score normalization for cross-industry ranking, FastAPI backend (13 endpoints), and an **MCP server** exposing 15 AI-agent tools.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌌 [Aether](https://github.com/MishtiGarg250/aether)
-**AI-Powered Unified Workspace & Knowledge Engine**
-
-Full-stack productivity platform with a **RAG pipeline** (Gemini AI embeddings + cosine-similarity search) over 30+ REST endpoints. Automated **Knowledge Graph** engine via BullMQ workers on Redis — concept extraction + **D3.js** visualization. Google Calendar OAuth2, Cloudinary storage, Clerk auth, cron email reminders.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🖥️ [GlyphConnect](https://GlyphConnect.github.io)
-**Secure Real-Time Remote Desktop Platform**
-
-Cross-platform Electron app — peer-to-peer screen sharing, remote control, and chunked file transfer over 4 dedicated **WebRTC** data channels. **ECDH P-256 + AES-256-GCM** E2E encryption, 38-endpoint REST API with JWT + Google OAuth2 + TOTP 2FA. Deployed on **AWS EC2/RDS** with a self-hosted TURN server.
-
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎮 [ECS-Engine-Game](https://github.com/Aayushinba17/ECS-Engine-Game)
-**High-Performance C++20 Game Engine Core**
-
-Zero-dependency ECS architecture (~1,100 LOC) with **sparse-set component pools** for cache-friendly O(1) ops. 32-bit entity IDs (20-bit index + 12-bit generation) for safe slot recycling. Movement, Lifetime, Combat (AABB), and ANSI Render systems — fully **SOLID-compliant** with interface abstractions and dependency-injected logging.
-
-![C++](https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS_Architecture-4B32C3?style=flat-square&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID_Design-2D3748?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
 
 ### ⚔️ Competitive Programming
 
